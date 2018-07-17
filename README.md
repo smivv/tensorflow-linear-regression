@@ -12,6 +12,9 @@ sh install.sh
 
 ## Usage Example
 
+Change input data or use random generation that is used by default.
+Run script using
+
 ```
 python linear_regression.py
 ```
